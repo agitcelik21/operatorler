@@ -1,9 +1,9 @@
 # Operatorler
 
-Bu repository Patika tarafından verilen ***C#101*** dersinin **Değişkenler ve Veri Tipleri** ödevi için hazırlanmıştır.
+Bu repository Patika tarafından verilen ***C#101*** dersinin **Operatorler** ödevi için hazırlanmıştır.
 
 Ödeve gitmek için linke tıklayınız.
-* [Degiskenler ödevi](https://github.com/agitcelik21/operatorler/blob/main/Program.cs)
+* [Operatorler ödevi](https://github.com/agitcelik21/operatorler/blob/main/Program.cs)
 
 
 ---
